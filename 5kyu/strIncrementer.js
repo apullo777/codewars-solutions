@@ -28,4 +28,3 @@ function incrementString (str) {
 
     return removeDigits.concat(numStr);
 }
-
